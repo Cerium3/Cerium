@@ -1,8 +1,1 @@
-# Lemon's Modpack
-A modpack that took 10 minutes, and is still in development. (For Minecraft 1.12.2)
-
-# Minecraft Mods Included:
-
-Optifine, OpenComputers, BiblioCraft, Chameleon, Chisel, Danvinci's Vessels, IndustrialCraft 2, JourneyMap, Just Enough Items, Mantle, Moving World, Storage Drawers, Tinkers' Construct
-
-It uses the default minecraft texture pack. (Could change soon)
+Cerium³ is a Minecraft Modded 1.12.2 server, owned by **Lemon.** The server uses [Forge] (https://files.minecraftforge.net/}.
