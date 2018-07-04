@@ -23,4 +23,7 @@ This modpack requires atleast 1 to 2GB of memory dedicated to your instance of M
 6) You're done!
 
 ### ATLauncher
-coming soon
+Coming soon
+
+### Twitch Client
+Coming soon
