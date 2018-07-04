@@ -2,7 +2,7 @@
 Cerium³ is a Minecraft Modded 1.12.2 server, owned by **Lemon.** The server requires [Forge](https://files.minecraftforge.net/), and is powered by [SpongeForge](https://www.spongepowered.org/) to run plugins and mods at the same time.
 
 ## Modpack Installation
-This modpack requires atleast 1 to 2GB of memory dedicated to your instance of Minecraft. SSD is recommended in order for Minecraft to quickly load, but not required. As always, we suggests using MultiMC over the Vanilla Minecraft launcher.
+This modpack requires atleast 1 to 2GB of memory dedicated to your instance of Minecraft. A SSD is recommended in order for Minecraft to quickly load, but not required. As always, we suggests using MultiMC over the Vanilla Minecraft launcher.
 
 ### Vanilla Minecraft Launcher
 1) Download the latest version of the modpack. 
